@@ -5,3 +5,10 @@
 * Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
 * No se realiza validación, ni se verifica calidad en los datos ingresados.
 
+## Análsis del Ejercicio
+
+## Aproximación Caso de Uso
+
+## Diagrama de Flujos de Datos
+
+## Seudocódigo
