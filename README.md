@@ -7,6 +7,7 @@
 
 ## Análsis del Ejercicio
 
+
 ## Aproximación Caso de Uso
 
 ## Diagrama de Flujos de Datos
