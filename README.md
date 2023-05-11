@@ -11,14 +11,9 @@
 ## Aproximación Caso de Uso
 
 ## Diagrama de Flujos de Datos
+![WhatsApp Image 2023-05-11 at 14 03 46](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/fde48fd7-b105-4720-a459-da7ecc1a8492)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+
 
 ## Seudocódigo
 
