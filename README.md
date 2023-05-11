@@ -12,5 +12,13 @@
 
 ## Diagrama de Flujos de Datos
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Seudocódigo
 
