@@ -7,6 +7,8 @@
 
 ## Análsis del Ejercicio
 
+![Historial](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/92a4e10e-667f-4537-9b3b-bdbcea95a1d5)
+
 
 ## Aproximación Caso de Uso
 
