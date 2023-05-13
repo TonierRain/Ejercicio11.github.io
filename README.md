@@ -12,6 +12,9 @@
 
 ## Aproximación Caso de Uso
 
+![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/1e29a48a-dc28-496f-9941-c35e471cd11a)
+
+
 ## Diagrama de Flujos de Datos
 ![WhatsApp Image 2023-05-11 at 14 03 46](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/fde48fd7-b105-4720-a459-da7ecc1a8492)
 
