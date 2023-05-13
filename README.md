@@ -12,7 +12,8 @@
 
 ## Aproximación Caso de Uso
 
-![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/1e29a48a-dc28-496f-9941-c35e471cd11a)
+![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/e51cfdab-af54-4753-87d7-139e6f0497fd)
+
 
 
 ## Diagrama de Flujos de Datos
