@@ -28,8 +28,9 @@ Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, 
 
 
 ## Seudocódigo
-
 Proceso Venta_De_Boletos
+
+
 	Definir p1 Como Caracter
 	Definir b1 Como Entero
 	Definir f1 Como Entero
@@ -55,5 +56,6 @@ Proceso Venta_De_Boletos
 	promedio<-suma / f1
 	
 	Escribir "El promedio de boletos vendidos en la pelicula ",p1," que tuvo ",f1," funciones es ",promedio
+	
 	
 FinProceso
