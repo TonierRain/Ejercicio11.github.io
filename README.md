@@ -7,7 +7,8 @@
 
 ## Análsis del Ejercicio
 
-![Historial](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/92a4e10e-667f-4537-9b3b-bdbcea95a1d5)
+![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/ab4d43df-3cd8-499a-a859-8c323838377a)
+
 
 
 ## Aproximación Caso de Uso
@@ -17,7 +18,8 @@
 
 
 ## Diagrama de Flujos de Datos
-![WhatsApp Image 2023-05-11 at 14 03 46](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/fde48fd7-b105-4720-a459-da7ecc1a8492)
+![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/22a5a5fb-038b-4573-aae0-527a975831a1)
+
 
 
 
