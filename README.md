@@ -1,7 +1,7 @@
 # Venta de Boletos de Cine
-### En este desarrollo de software se vera reflejado el promedio de de boletos vendidos de una pelicula que esté en cartelera que hayan vendido la menor cantidad de boletos y la mayor cantidad de boletos. Dependiendo del número de boletos vendidos se elijira la mejor pelicula taquillera y la peor en el momento 
+### En este desarrollo de software se vera reflejado el promedio de boletos vendidos de una pelicula en base a las funciones que presente. Dependiendo del número de boletos vendidos se estimara si la pelicula es rentable o no.
 ## Aclariaciones
-* Se supondrá que la aplicación solo se requiere calcular la mejor y la peor pelicula taquillera de la cartelera en ese momento según el número de boletos vendidos.
+* Se supondrá que la aplicación solo se requiere calcular el promedio de boletos vendidos de una pelicula en base a las funciones que presente.
 * Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
 * No se realiza validación, ni se verifica calidad en los datos ingresados.
 
