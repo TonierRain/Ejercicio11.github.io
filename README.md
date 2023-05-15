@@ -20,6 +20,10 @@
 
 ![image](https://github.com/TonierRain/Ejercicio11.github.io/assets/132966400/37b22b52-0bfe-4a63-8885-64c39797ac19)
 
+Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, es conveniente realizar las siguientes aclaraciones y comentarios:
+* Aunque se puede condensar el código incluyendo las instrucciones del segundo “Para” dentro del primero, de manera intencional se ha dejado así intencionalmente para delimitar funcionalmente cada bloque de código.
+* En el algoritmo se captura información, como el nombre de pelicula, el numero de funciones y el numero de boletos, esta información se mantiene porque posteriormente puede ser útil para ampliar la funcionalidad de la aplicación. 
+
 
 
 
